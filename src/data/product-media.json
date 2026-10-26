@@ -1,0 +1,939 @@
+{
+  "macbook-air": {
+    "src": "/images/catalog/macbook-air.webp",
+    "source": "https://www.apple.com/macbook-air/",
+    "original": "https://www.apple.com/v/macbook-air/z/images/meta/macbook_air_mx__ez5y0k5yy7au_og.png?202608191258"
+  },
+  "macbook-pro": {
+    "src": "/images/catalog/macbook-pro.webp",
+    "source": "https://www.apple.com/macbook-pro/",
+    "original": "https://www.apple.com/v/macbook-pro/ax/images/meta/macbook-pro__difvbgz1plsi_og.png?202608191258"
+  },
+  "imac": {
+    "src": "/images/catalog/imac.webp",
+    "source": "https://www.apple.com/imac/",
+    "original": "https://www.apple.com/v/imac/w/images/meta/imac__d7trotporb6u_og.png?202608202102"
+  },
+  "mac-mini": {
+    "src": "/images/catalog/mac-mini.webp",
+    "source": "https://www.apple.com/mac-mini/",
+    "original": "https://www.apple.com/v/mac-mini/ab/images/meta/mac-mini__dvce2jrm11w2_og.jpg?202609211742"
+  },
+  "airpods": {
+    "src": "/images/catalog/airpods.webp",
+    "source": "https://www.apple.com/airpods/",
+    "original": "https://www.apple.com/v/airpods/ag/images/meta/airpods__dh7xkbort402_og.png?202609172011"
+  },
+  "airpods-pro": {
+    "src": "/images/catalog/airpods-pro.webp",
+    "source": "https://www.apple.com/airpods-pro/",
+    "original": "https://www.apple.com/v/airpods-pro/t/images/meta/og__c0ceegchesom_overview.png?202609132104"
+  },
+  "airpods-max": {
+    "src": "/images/catalog/airpods-max.webp",
+    "source": "https://www.apple.com/airpods-max/",
+    "original": "https://www.apple.com/v/airpods-max/l/images/meta/airpods-max_overview__c2mz40a3bugm_og.png?202609031423"
+  },
+  "watch-se": {
+    "src": "/images/catalog/watch-se.webp",
+    "source": "https://www.apple.com/apple-watch-se-3/",
+    "original": "https://www.apple.com/v/apple-watch-se-3/d/images/meta/apple-watch-se-3__d0wwc67lzg02_og.png?202609291712"
+  },
+  "watch-series": {
+    "src": "/images/catalog/watch-series.webp",
+    "source": "https://www.apple.com/apple-watch-series-12/",
+    "original": "https://www.apple.com/v/apple-watch-series-12/b/images/meta/apple-watch-series-12__ep17epp8v16q_og.png?202609291712"
+  },
+  "watch-ultra": {
+    "src": "/images/catalog/watch-ultra.webp",
+    "source": "https://www.apple.com/apple-watch-ultra-4/",
+    "original": "https://www.apple.com/v/apple-watch-ultra-4/b/images/meta/apple-watch-ultra-4__bzmdvy2wwb2a_og.png?202610060947"
+  },
+  "ipad": {
+    "src": "/images/catalog/ipad.webp",
+    "source": "https://www.apple.com/ipad/",
+    "original": "https://www.apple.com/assets-www/en_WW/ipad/og/ipad_og_fc131c68c.png"
+  },
+  "ipad-mini": {
+    "src": "/images/catalog/ipad-mini.webp",
+    "source": "https://www.apple.com/ipad-mini/",
+    "original": "https://www.apple.com/v/ipad-mini/v/images/meta/ipad-mini_overview__cxipvq7fs1ci_og.png?202608111253"
+  },
+  "ipad-air": {
+    "src": "/images/catalog/ipad-air.webp",
+    "source": "https://www.apple.com/ipad-air/",
+    "original": "https://www.apple.com/v/ipad-air/ah/images/meta/ipad-air_overview__bc2fd15uec0y_og.png?202609021131"
+  },
+  "ipad-pro": {
+    "src": "/images/catalog/ipad-pro.webp",
+    "source": "https://www.apple.com/ipad-pro/",
+    "original": "https://www.apple.com/v/ipad-pro/aw/images/meta/ipad-pro_overview__bu4cql27diaa_og.png?202609021131"
+  },
+  "apple-pencil": {
+    "src": "/images/catalog/apple-pencil.webp",
+    "source": "https://www.apple.com/apple-pencil/",
+    "original": "https://www.apple.com/v/apple-pencil/ag/images/meta/apple-pencil__e54ff7ft4f0i_og.png?202604221757"
+  },
+  "iphone-15-black": {
+    "src": "/images/catalog/iphone-15-black.webp",
+    "source": "https://support.apple.com/en-ie/111831",
+    "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-black-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+  },
+  "iphone-15-blue": {
+    "src": "/images/catalog/iphone-15-blue.webp",
+    "source": "https://support.apple.com/en-ie/111831",
+    "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-blue-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+  },
+  "iphone-15-green": {
+    "src": "/images/catalog/iphone-15-green.webp",
+    "source": "https://support.apple.com/en-ie/111831",
+    "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-green-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+  },
+  "magsafe": {
+    "src": "/images/catalog/magsafe.webp",
+    "source": "https://www.apple.com/shop/product/mgd74ll/a/magsafe-charger-1-m",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MGD74?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1755025001125"
+  },
+  "carregadores": {
+    "src": "/images/catalog/carregadores.webp",
+    "source": "https://www.apple.com/shop/product/mwvv3am/a/20w-usb-c-power-adapter",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MWVV3?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1751998599188"
+  },
+  "capas": {
+    "src": "/images/catalog/capas.webp",
+    "source": "https://www.apple.com/shop/product/myy13zm/a/iphone-16-silicone-case-with-magsafe-black",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MYY13?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1741638671643"
+  },
+  "iphone-15-overview": {
+    "src": "/images/catalog/iphone-15-overview.webp",
+    "source": "https://support.apple.com/en-ie/111831",
+    "original": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/iphone_15_hero.png"
+  },
+  "mac-studio": {
+    "src": "/images/catalog/mac-studio.webp",
+    "source": "https://www.apple.com/mac-studio/",
+    "original": "https://www.apple.com/v/mac-studio/o/images/meta/mac-studio_overview__eedzbosm1t26_og.png?202609211742"
+  },
+  "studio-display": {
+    "src": "/images/catalog/studio-display.webp",
+    "source": "https://www.apple.com/studio-display/",
+    "original": "https://www.apple.com/v/studio-display/f/images/meta/studio-display_overview__cc7vair07fjm_og.png?202603261117"
+  },
+  "adaptadores": {
+    "src": "/images/catalog/adaptadores.webp",
+    "source": "https://www.apple.com/shop/product/mw5m3am/a/usb-c-digital-av-multiport-adapter",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MUF82?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1590526633000"
+  },
+  "magic-mouse": {
+    "src": "/images/catalog/magic-mouse.webp",
+    "source": "https://www.apple.com/shop/product/mxk53am/a/magic-mouse-usb%E2%80%91c-white-multi-touch-surface",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK53?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1730508286345"
+  },
+  "magic-trackpad": {
+    "src": "/images/catalog/magic-trackpad.webp",
+    "source": "https://www.apple.com/shop/product/mxk93am/a/magic-trackpad-usb%E2%80%91c-white-multi-touch-surface",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXK93?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1730508284008"
+  },
+  "magic-keyboard": {
+    "src": "/images/catalog/magic-keyboard.webp",
+    "source": "https://www.apple.com/shop/product/mjlx4ll/a/magic-keyboard-usb-c-us-english",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MJLX4?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1785993102206"
+  },
+  "iphoneVariants": {
+    "iphone-x-silver": {
+      "src": "/images/catalog-standard/iphone-x-silver.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-x-silver-select-2017?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-xs-gold": {
+      "src": "/images/catalog-standard/iphone-xs-gold.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-gold-select-2018?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-11-pro-gold": {
+      "src": "/images/catalog-standard/iphone-11-pro-gold.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-gold-select-2019?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-12-blue": {
+      "src": "/images/catalog-standard/iphone-12-blue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-12-green": {
+      "src": "/images/catalog-standard/iphone-12-green.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-green-select-2020?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-13-pink": {
+      "src": "/images/catalog-standard/iphone-13-pink.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pink-select-2021?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-13-blue": {
+      "src": "/images/catalog-standard/iphone-13-blue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-blue-select-2021?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-14-purple": {
+      "src": "/images/catalog-standard/iphone-14-purple.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-purple-select-202209?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-14-yellow": {
+      "src": "/images/catalog-standard/iphone-14-yellow.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-yellow-select-202303?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-15-black": {
+      "src": "/images/catalog-standard/iphone-15-black.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-black-select-202309?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-15-blue": {
+      "src": "/images/catalog-standard/iphone-15-blue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-blue-select-202309?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-15-green": {
+      "src": "/images/catalog-standard/iphone-15-green.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-green-select-202309?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-ultramarine": {
+      "src": "/images/catalog-standard/iphone-16-ultramarine.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-ultramarine-select-202409?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-teal": {
+      "src": "/images/catalog-standard/iphone-16-teal.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-teal-select-202409?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-pro-deserttitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-deserttitanium.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-deserttitanium-select?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-pro-naturaltitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-naturaltitanium.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-naturaltitanium-select?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-14-plus-blue": {
+      "src": "/images/catalog-standard/iphone-14-plus-blue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-blue-select-202209?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-14-plus-purple": {
+      "src": "/images/catalog-standard/iphone-14-plus-purple.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-purple-select-202209?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-14-plus-yellow": {
+      "src": "/images/catalog-standard/iphone-14-plus-yellow.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-yellow-select-202303?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-15-plus-pink": {
+      "src": "/images/catalog-standard/iphone-15-plus-pink.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-pink-select-202309?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-15-plus-blue": {
+      "src": "/images/catalog-standard/iphone-15-plus-blue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-blue-select-202309?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-plus-ultramarine": {
+      "src": "/images/catalog-standard/iphone-16-plus-ultramarine.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-plus-ultramarine-select-202409?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-16-plus-teal": {
+      "src": "/images/catalog-standard/iphone-16-plus-teal.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-plus-teal-select-202409?wid=900&hei=1100&fmt=png-alpha"
+    },
+    "iphone-xr-blue": {
+      "src": "/images/catalog-standard/iphone-xr-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-blue-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-black": {
+      "src": "/images/catalog-standard/iphone-11-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-blue": {
+      "src": "/images/catalog-standard/iphone-12-pro-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-blue-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-blue": {
+      "src": "/images/catalog-standard/iphone-13-pro-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-blue-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-deeppurple": {
+      "src": "/images/catalog-standard/iphone-14-pro-deeppurple.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-deeppurple-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-naturaltitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-naturaltitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-naturaltitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-pro-cosmicorange": {
+      "src": "/images/catalog-standard/iphone-17-pro-cosmicorange.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-3inch-cosmicorange?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-18-pro-burgundy": {
+      "src": "/images/catalog-standard/iphone-18-pro-burgundy-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-c1dec80e-391a-4a56-8e78-cf7e2ad276ea.png"
+    },
+    "iphone-xs-silver": {
+      "src": "/images/catalog-standard/iphone-xs-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-silver-select-2018?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xr-black": {
+      "src": "/images/catalog-standard/iphone-xr-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-black-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xr-yellow": {
+      "src": "/images/catalog-standard/iphone-xr-yellow.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-yellow-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xr-coral": {
+      "src": "/images/catalog-standard/iphone-xr-coral.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-coral-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xr-white": {
+      "src": "/images/catalog-standard/iphone-xr-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-white-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xr-red": {
+      "src": "/images/catalog-standard/iphone-xr-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-red-select-201809?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-yellow": {
+      "src": "/images/catalog-standard/iphone-11-yellow.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-yellow-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-green": {
+      "src": "/images/catalog-standard/iphone-11-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-green-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-white": {
+      "src": "/images/catalog-standard/iphone-11-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-white-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-pro-silver": {
+      "src": "/images/catalog-standard/iphone-11-pro-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-silver-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-purple": {
+      "src": "/images/catalog-standard/iphone-11-purple.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-purple-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-red": {
+      "src": "/images/catalog-standard/iphone-11-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-red-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-pro-midnightgreen": {
+      "src": "/images/catalog-standard/iphone-11-pro-midnightgreen.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-midnight-green-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-black": {
+      "src": "/images/catalog-standard/iphone-12-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-white": {
+      "src": "/images/catalog-standard/iphone-12-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-red": {
+      "src": "/images/catalog-standard/iphone-12-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-red-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-graphite": {
+      "src": "/images/catalog-standard/iphone-12-pro-graphite.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-graphite-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-silver": {
+      "src": "/images/catalog-standard/iphone-12-pro-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-silver-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-midnight": {
+      "src": "/images/catalog-standard/iphone-13-midnight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-midnight-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-starlight": {
+      "src": "/images/catalog-standard/iphone-13-starlight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-starlight-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-gold": {
+      "src": "/images/catalog-standard/iphone-12-pro-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-gold-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-silver": {
+      "src": "/images/catalog-standard/iphone-13-pro-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-silver-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-green": {
+      "src": "/images/catalog-standard/iphone-13-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-green-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-graphite": {
+      "src": "/images/catalog-standard/iphone-13-pro-graphite.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-graphite-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-starlight": {
+      "src": "/images/catalog-standard/iphone-14-starlight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-starlight-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-green": {
+      "src": "/images/catalog-standard/iphone-13-pro-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-green-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-midnight": {
+      "src": "/images/catalog-standard/iphone-14-midnight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-midnight-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-blue": {
+      "src": "/images/catalog-standard/iphone-14-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-blue-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-gold": {
+      "src": "/images/catalog-standard/iphone-13-pro-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-gold-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-red": {
+      "src": "/images/catalog-standard/iphone-14-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-red-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-plus-starlight": {
+      "src": "/images/catalog-standard/iphone-14-plus-starlight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-starlight-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-plus-midnight": {
+      "src": "/images/catalog-standard/iphone-14-plus-midnight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-midnight-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-plus-red": {
+      "src": "/images/catalog-standard/iphone-14-plus-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-plus-red-select-202209?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pink": {
+      "src": "/images/catalog-standard/iphone-15-pink.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pink-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-spaceblack": {
+      "src": "/images/catalog-standard/iphone-14-pro-spaceblack.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-spaceblack-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-yellow": {
+      "src": "/images/catalog-standard/iphone-15-yellow.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-yellow-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-silver": {
+      "src": "/images/catalog-standard/iphone-14-pro-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-silver-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-gold": {
+      "src": "/images/catalog-standard/iphone-14-pro-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-gold-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-plus-yellow": {
+      "src": "/images/catalog-standard/iphone-15-plus-yellow.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-yellow-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-plus-green": {
+      "src": "/images/catalog-standard/iphone-15-plus-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-green-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-plus-black": {
+      "src": "/images/catalog-standard/iphone-15-plus-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-plus-black-select-202309?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-bluetitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-bluetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-bluetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-white": {
+      "src": "/images/catalog-standard/iphone-16-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-white-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-black": {
+      "src": "/images/catalog-standard/iphone-16-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-black-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pink": {
+      "src": "/images/catalog-standard/iphone-16-pink.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pink-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-blacktitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-blacktitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-blacktitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-whitetitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-whitetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-whitetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-plus-black": {
+      "src": "/images/catalog-standard/iphone-16-plus-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-plus-black-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-plus-white": {
+      "src": "/images/catalog-standard/iphone-16-plus-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-plus-white-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-plus-pink": {
+      "src": "/images/catalog-standard/iphone-16-plus-pink.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-plus-pink-select-202409?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-whitetitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-whitetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-whitetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-black": {
+      "src": "/images/catalog-standard/iphone-17-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-black-select-202509?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-mistblue": {
+      "src": "/images/catalog-standard/iphone-17-mistblue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-mistblue-select-202509?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-lavender": {
+      "src": "/images/catalog-standard/iphone-17-lavender.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-lavender-select-202509?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-blacktitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-blacktitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-blacktitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-sage": {
+      "src": "/images/catalog-standard/iphone-17-sage.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-sage-select-202509?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-white": {
+      "src": "/images/catalog-standard/iphone-17-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-white-select-202509?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-pro-deepblue": {
+      "src": "/images/catalog-standard/iphone-17-pro-deepblue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-3inch-deepblue?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-17-pro-silver": {
+      "src": "/images/catalog-standard/iphone-17-pro-silver.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-3inch-silver?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-18-pro-silver": {
+      "src": "/images/catalog-standard/iphone-18-pro-silver-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-e3580819-9106-473f-a716-a15ef66f0394.png"
+    },
+    "iphone-18-pro-glacier": {
+      "src": "/images/catalog-standard/iphone-18-pro-glacier-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-3466ecd0-ce56-4895-ac21-ada615090d30.png"
+    },
+    "iphone-18-pro-black": {
+      "src": "/images/catalog-standard/iphone-18-pro-black-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-06f89b28-d07a-4472-b020-0e7d237afcdd.png"
+    },
+    "iphone-xs-max-gold": {
+      "src": "/images/catalog-standard/iphone-xs-max-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-max-gold-select-2018?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-xs-max-silver": {
+      "src": "/images/catalog-standard/iphone-xs-max-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-max-silver-select-2018?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-pro-max-gold": {
+      "src": "/images/catalog-standard/iphone-11-pro-max-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-gold-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-11-pro-max-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-silver-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-11-pro-max-midnightgreen": {
+      "src": "/images/catalog-standard/iphone-11-pro-max-midnightgreen.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-max-midnight-green-select-2019?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-black": {
+      "src": "/images/catalog-standard/iphone-12-mini-black.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-black-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-purple": {
+      "src": "/images/catalog-standard/iphone-12-purple.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-purple-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-red": {
+      "src": "/images/catalog-standard/iphone-12-mini-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-red-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-white": {
+      "src": "/images/catalog-standard/iphone-12-mini-white.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-white-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-green": {
+      "src": "/images/catalog-standard/iphone-12-mini-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-green-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-blue": {
+      "src": "/images/catalog-standard/iphone-12-mini-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-blue-select-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-mini-purple": {
+      "src": "/images/catalog-standard/iphone-12-mini-purple.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-purple-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-max-blue": {
+      "src": "/images/catalog-standard/iphone-12-pro-max-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-max-blue-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-12-pro-max-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-max-silver-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-max-gold": {
+      "src": "/images/catalog-standard/iphone-12-pro-max-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-max-gold-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-12-pro-max-graphite": {
+      "src": "/images/catalog-standard/iphone-12-pro-max-graphite.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-max-graphite-2020?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-midnight": {
+      "src": "/images/catalog-standard/iphone-13-mini-midnight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-midnight-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-red": {
+      "src": "/images/catalog-standard/iphone-13-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-product-red-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-starlight": {
+      "src": "/images/catalog-standard/iphone-13-mini-starlight.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-starlight-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-pink": {
+      "src": "/images/catalog-standard/iphone-13-mini-pink.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-pink-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-blue": {
+      "src": "/images/catalog-standard/iphone-13-mini-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-blue-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-green": {
+      "src": "/images/catalog-standard/iphone-13-mini-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-green-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-mini-red": {
+      "src": "/images/catalog-standard/iphone-13-mini-red.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-mini-product-red-select-2021?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-max-blue": {
+      "src": "/images/catalog-standard/iphone-13-pro-max-blue.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-blue-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-13-pro-max-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-silver-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-max-green": {
+      "src": "/images/catalog-standard/iphone-13-pro-max-green.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-green-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-max-graphite": {
+      "src": "/images/catalog-standard/iphone-13-pro-max-graphite.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-13-pro-max-gold": {
+      "src": "/images/catalog-standard/iphone-13-pro-max-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-max-gold-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-max-gold": {
+      "src": "/images/catalog-standard/iphone-14-pro-max-gold.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-max-gold-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-max-spaceblack": {
+      "src": "/images/catalog-standard/iphone-14-pro-max-spaceblack.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-max-spaceblack-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-14-pro-max-silver.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-max-silver-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-14-pro-max-deeppurple": {
+      "src": "/images/catalog-standard/iphone-14-pro-max-deeppurple.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-pro-max-deeppurple-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-max-naturaltitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-max-naturaltitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-naturaltitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-max-bluetitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-max-bluetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-bluetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-max-whitetitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-max-whitetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-whitetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-15-pro-max-blacktitanium": {
+      "src": "/images/catalog-standard/iphone-15-pro-max-blacktitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-blacktitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-max-whitetitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-max-whitetitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-max-whitetitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-max-deserttitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-max-deserttitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-max-deserttitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-max-naturaltitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-max-naturaltitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-max-naturaltitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-16-pro-max-blacktitanium": {
+      "src": "/images/catalog-standard/iphone-16-pro-max-blacktitanium.webp",
+      "source": "Apple Store",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-16-pro-max-blacktitanium-select?wid=1000&hei=1200&fmt=png-alpha"
+    },
+    "iphone-17-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-17-pro-max-silver.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-silver?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-17-pro-max-deepblue": {
+      "src": "/images/catalog-standard/iphone-17-pro-max-deepblue.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-deepblue?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-17-pro-max-cosmicorange": {
+      "src": "/images/catalog-standard/iphone-17-pro-max-cosmicorange.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-17-pro-finish-select-202509-6-9inch-cosmicorange?wid=1600&hei=2000&fmt=png-alpha"
+    },
+    "iphone-18-pro-max-burgundy": {
+      "src": "/images/catalog-standard/iphone-18-pro-burgundy-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-c1dec80e-391a-4a56-8e78-cf7e2ad276ea.png"
+    },
+    "iphone-18-pro-max-glacier": {
+      "src": "/images/catalog-standard/iphone-18-pro-glacier-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-3466ecd0-ce56-4895-ac21-ada615090d30.png"
+    },
+    "iphone-18-pro-max-silver": {
+      "src": "/images/catalog-standard/iphone-18-pro-silver-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-e3580819-9106-473f-a716-a15ef66f0394.png"
+    },
+    "iphone-18-pro-max-black": {
+      "src": "/images/catalog-standard/iphone-18-pro-black-provided.webp",
+      "source": "User-provided product image",
+      "original": "codex-clipboard-06f89b28-d07a-4472-b020-0e7d237afcdd.png"
+    },
+    "iphone-duo-nightsky": {
+      "src": "/images/catalog-standard/iphone-duo-nightsky.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-night-sky-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThkZ3h0LzRVb3pVcDdFRFlBZW9LdlZnTTY3eU1sRElTUWw3VmkwaFcvWFFZdVQ5NVJ4OStiQklybHZqYkJwOUI0UW54dHNyNHVwMVJTcUJTRDV4amNZM3JXeEN5bXRCTGIyQkNzYVFpWTFyclA"
+    },
+    "iphone-duo-starwhite": {
+      "src": "/images/catalog-standard/iphone-duo-starwhite.webp",
+      "source": "Apple Store product image",
+      "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8"
+    }
+  },
+  "iphone-17-family": {
+    "src": "/images/iphone-colors/iphone-17-family-official.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-17-202609?.v=M0dlUVBobHVpY1h1dmlaR3RZekpEL1l5N1hFTy9RTVZvRXBQbUJ5QTZYMUxxZU5scXpES1hnUm96ckN1R2pZN215d1FhSDJ0bkR0ZGZtUjZJNmFveGJIT1NwVjArc3diTWlTKzkwUStjL0U&fmt=png-alpha&hei=512&wid=400"
+  },
+  "iphone-18-pro-family": {
+    "src": "/images/iphone-colors/iphone-18-pro-family-official.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-18-pro-202609?.v=M0dlUVBobHVpY1h1dmlaR3RZekpEMEhRUmlKNkhhdE80VTZIL1ZUdjd2eUpxQWhXdDZiUERGcnlNZW9hNkhxRmJPbDJJWDFrVGJEYlIxTitTcHhVWldHUUw4RnF3MmwyMUVGYm13ODRTWXlINUhveGhFc1lXWld4RkQ2dkFBMi8&fmt=png-alpha&hei=512&wid=400"
+  },
+  "iphone-duo-family": {
+    "src": "/images/catalog-standard/iphone-duo-family.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-duo-202609?.v=M0dlUVBobHVpY1h1dmlaR3RZekpENmZPZm9YejBValJVbXlTNDNkM1pFVjE5VXk1QVF5NWxrMFlTNWNpV2huNVM0TjRWdzF2UjRGVEY0c3dBQVZ6VFFlcU5xMENJdDhjbzVtS3hXU1dQS3c&fmt=png-alpha&hei=512&wid=400"
+  },
+  "iphone-17-pro-family": {
+    "src": "/images/iphone-colors/iphone-17-pro-family-official.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://www.apple.com/newsroom/images/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/article/Apple-iPhone-17-Pro-cosmic-orange-250909_inline.jpg.large.jpg"
+  },
+  "iphone-17-pro-colors": {
+    "src": "/images/iphone-colors/iphone-17-pro-colors-official.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://www.apple.com/newsroom/images/2025/09/apple-unveils-iphone-17-pro-and-iphone-17-pro-max/article/Apple-iPhone-17-Pro-color-lineup-250909_inline.jpg.large.jpg"
+  },
+  "iphone-18-pro-colors": {
+    "src": "/images/iphone-colors/iphone-18-pro-colors-official.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/colors_endframe__czfie0zmty4i_large.jpg"
+  },
+  "iphone-x-family": {
+    "src": "/images/iphone-colors/iphone-x-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2017/09/the-future-is-here-iphone-x/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonex_front_back_new_glass_full.jpg.og.jpg?202608191813"
+  },
+  "iphone-xs-family": {
+    "src": "/images/iphone-colors/iphone-xs-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2018/09/iphone-xs-and-iphone-xs-max-bring-the-best-and-biggest-displays-to-iphone/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhoneXs-Gold-iPhone-Xs-Max-09122018_LP_hero.jpg.og.jpg?202608191713"
+  },
+  "iphone-xr-family": {
+    "src": "/images/iphone-colors/iphone-xr-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2018/09/apple-introduces-iphone-xr/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/iphonexr_09122018_LP_hero.jpg.og.jpg?202608191806"
+  },
+  "iphone-11-family": {
+    "src": "/images/iphone-colors/iphone-11-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2019/09/apple-introduces-dual-camera-iphone-11/",
+    "original": "https://www.apple.com/newsroom/images/tile-images/Apple_iphone_11-rosette-family-lineup-091019.jpg.og.jpg?202608191801"
+  },
+  "iphone-11-pro-family": {
+    "src": "/images/iphone-colors/iphone-11-pro-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/",
+    "original": "https://www.apple.com/newsroom/images/tile-images/Apple_iPhone-11-Pro_Most-Powerful-Advanced_091019.jpg.og.jpg?202608191718"
+  },
+  "iphone-12-family": {
+    "src": "/images/iphone-colors/iphone-12-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2020/10/apple-announces-iphone-12-and-iphone-12-mini-a-new-era-for-iphone-with-5g/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/apple_iphone-12_new-design_10132020.jpg.og.jpg?202608191805"
+  },
+  "iphone-12-pro-family": {
+    "src": "/images/iphone-colors/iphone-12-pro-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2020/10/apple-introduces-iphone-12-pro-and-iphone-12-pro-max-with-5g/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020.jpg.og.jpg?202608191832"
+  },
+  "iphone-13-pro-family": {
+    "src": "/images/iphone-colors/iphone-13-pro-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2021/09/apple-unveils-iphone-13-pro-and-iphone-13-pro-max-more-pro-than-ever-before/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_09142021.jpg.og.jpg?202608191656"
+  },
+  "iphone-14-pro-family": {
+    "src": "/images/iphone-colors/iphone-14-pro-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2022/09/apple-debuts-iphone-14-pro-and-iphone-14-pro-max/",
+    "original": "https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-hero-220907.jpg.og.jpg?202608191653"
+  },
+  "iphone-15-pro-family": {
+    "src": "/images/iphone-colors/iphone-15-pro-family-official.webp",
+    "source": "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/",
+    "original": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.og.jpg?202608191802"
+  },
+  "iphone-air-family": {
+    "src": "/images/catalog-standard/iphone-air-family.webp",
+    "source": "https://www.apple.com/iphone/",
+    "original": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-compare-iphone-air-202609?.v=M0dlUVBobHVpY1h1dmlaR3RZekpEMC9lSXF0eXpIalRkVVR5QXkvMTY3bDE5VXk1QVF5NWxrMFlTNWNpV2huNVM0TjRWdzF2UjRGVEY0c3dBQVZ6VFY3NC9UKzZjWlgwWjRhTEZ0Rlk0ZFk&fmt=png-alpha&hei=512&wid=400"
+  }
+}

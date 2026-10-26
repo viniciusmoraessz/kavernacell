@@ -1,0 +1,5 @@
+import Image from 'next/image';
+import { ArrowUpRight } from 'lucide-react';
+import { navigation, store } from '@/lib/config';
+import WhatsAppLink from '@/components/ui/WhatsAppLink';
+export default function Footer() { return <footer className="footer"><div className="shell footer-grid"><div><Image src="/images/logo-kaverna.png" width={110} height={110} alt="Kaverna Cell" className="footer-logo" /><p>Seu próximo iPhone começa<br />com uma boa escolha.</p></div><div><h3>Explore</h3>{navigation.map(([name, href]) => <a href={href} key={href}>{name}</a>)}</div><div><p>Modelos, acessórios e orientação<br />para encontrar o que combina com você.</p><WhatsAppLink className="footer-link">Atendimento pelo WhatsApp <ArrowUpRight size={16} /></WhatsAppLink>{store.instagram && <a href={store.instagram} target="_blank" rel="noopener noreferrer">Instagram oficial</a>}</div></div><div className="shell footer-bottom"><span>© {new Date().getFullYear()} Kaverna Cell. Todos os direitos reservados.</span><span>Tecnologia. Proximidade. Confiança.</span></div></footer> }
